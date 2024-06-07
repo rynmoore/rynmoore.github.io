@@ -37,10 +37,3 @@ https://open.spotify.com/track/25lTenJPmSfwCRZi2hjCcB?si=e384df1cd81b4d40
 4. cucaracha; underarm turn to tamara;  
 5. wheel 3 and unwind;;  
 6. flirt (lead in 2); fence line; shadow fence and hold;   
-  
-# Notes  
-- Possibly better have the flirt be lead in 2  
-- Still not completely sold on the last few lines of part 2  
-- Crab walk ending  
-- The tamara is currently in handshake which is bad  
-- Check right and left on circular serpiente
