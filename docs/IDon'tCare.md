@@ -14,8 +14,8 @@ https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9?si=60221d419bc84d7e
 2. -; kick ball change twice;  
 3. ;;  
 4. ;;  
-5. ;;  
-6. ;;  
+5. ; swivel walks x4;  
+6. throwaway; ;  
 7. ;;  
 8. ;;  
 ## Chorus  
