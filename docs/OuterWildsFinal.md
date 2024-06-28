@@ -2,38 +2,33 @@
 share: "True"  
 ---  
   
-https://open.spotify.com/track/25lTenJPmSfwCRZi2hjCcB?si=e384df1cd81b4d40  
-# Choreo v5  
-## Part 1:   
-1. wait in tamara position;;  
-2. wheel 3; unwind to butterfly;  
-## Part 2:  
-1. alternative half basic; fence line;  
-2. hand to hand; aida;  
-3. switch cross; crab walk ending;  
-4. spot turn; underarm turn;  
-5. reverse underarm turn; new yorker;  
-6. spot turn; underarm turn;  
-## Part 3:  
-1. half basic; three aidas to line;  
-2. to reverse; to line;  
-3. switch rock; cucaracha;  
-4. alternative basics;;  
-## Part 4:  
-1. quick twist vine 8; cucaracha;  
-2. quick twist vine 8 to reverse; cucaracha;  
-3. half basic; whip;  
-4. chase with underarm pass;;  
-## Part 5:  
-1. spot turn lead in 2; right circular   
-2. serpiente;; fence line;  
-## Part 6:  
-1. left circular serpiente;;  
-2. fence line; spot turn lead in 2;; to handshake  
-## Part 7:  
-1. flirt to a fan;;  
-2. hockey stick to handshake;;  
-3. trade places twice;;  
-4. cucaracha; underarm turn to tamara;  
-5. wheel 3 and unwind;;  
-6. flirt (lead in 2); fence line; shadow fence and hold;   
+# Outer Wilds  
+Released:   
+Choreographer: Ryn Moore     Email: bmmoore@mit.edu  
+Music: "Outer Wilds" by Andrew Prahlow, CD: Outer Wilds (Original Soundtrack), Track #2 ![OuterWilds](./OuterWilds.mp3)  
+Time/Speed: as downloaded 2:26 @ 45  
+Footwork: Opposite unless noted   
+Rhythm/Phase: Rumba   
+Degree of Difficulty: AVG  
+Sequence: Intro, A, B, C, D, E  
+  
+## Intro  
+**1-4     Wait (in tamara position );; Wheel 3; Unwind to butterfly;**  
+## Part A  
+**1-4     Alternative Basic; Fence Line; Hand to Hand; Aida;**  
+**5-8     Switch Cross; Crab Walk Ending; Spot Turn; Underarm Turn;**  
+**9-12     Reverse Underarm Turn; New Yorker; Spot Turn; Underarm Turn**  
+  
+## Part B  
+**1-4     Half Basic; Three Aidas;;;**  
+**5-8     Switch Rock; Cucaracha; Alternative Basics;;**  
+## Part C  
+**1-4     Quick Twist Vine 8; Cucaracha; Quick Twist Vine 8; Cucaracha;**  
+**5-8     Half Basic; Whip; Chase with Underarm Pass**  
+## Part D  
+**1-4     Spot turn (lead in 2); Left Circular Serpiente;; Fence Line;**  
+**5-8     Right Circular Serpiente;; Fence Line; Spot Turn (lead in 2 to handshake)**  
+## Part E  
+**1-4     Flirt to a fan;; Hockey Stick (to handshake);;**  
+**5-8     Trade Places Twice;; Cucaracha; Underarm Turn (to tamara)**  
+**9-13     Wheel 3; Unwind to Butterfly; Flirt (lead in 2); Shadow Fence Line; Shadow Fence and Hold**  
