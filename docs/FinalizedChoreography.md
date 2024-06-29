@@ -3,6 +3,6 @@ share: "True"
 ---  
   
   
-[WildOne](./WildOne.md)  
-[OuterWilds](./OuterWilds.md)  
+[WildOneFinal](./WildOneFinal.md)  
+[OuterWildsFinal](./OuterWildsFinal.md)  
 [Darling](./Darling.md)
