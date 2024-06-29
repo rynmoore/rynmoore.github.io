@@ -28,4 +28,4 @@ Sequence: A, B, C, Bridge, A, B, C, Interlude, C, End
 **5-8     Ronde cha cha box;; challenge chase**  
 ## End  
 **1-4     Umbrella turns to butterfly**  
-**5-9     Thru sepriente;; spot turns;; and point,  
+**5-9     Thru sepriente;; spot turns;; and point,**  
