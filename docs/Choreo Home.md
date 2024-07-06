@@ -20,6 +20,7 @@ This is a playlist of songs that I haven't been able to categorize into specific
 [Miscellaneous Songs](https://open.spotify.com/playlist/2fvo5UiqoRPESKaHX0Qrbc?si=27a17620a76146c7)  
 # Finalized  
 [Darling](./Darling.md) (started 2022-09-14, last updated \[2024] \[21] \[01])  
+[HeyLittleSongbird](./HeyLittleSongbird.md) (started \[2023] \[51] \[03], last updated \[2024] \[07] \[03])  
 [OuterWilds](./OuterWilds.md) (started \[2023] \[09] \[05], last updated \[2024] \[21] \[01])  
 [WildOne](./WildOne.md) (started \[2023] \[46] \[03], last updated \[2024] \[01] \[01])  
 # Complete  
@@ -29,13 +30,13 @@ This is a playlist of songs that I haven't been able to categorize into specific
 [FromtheNebraskaPlant](./FromtheNebraskaPlant.md) (started \[2023] \[45] \[01], last updated \[2023] \[51] \[03])  
 [GoodIntentions](./GoodIntentions.md) (started \[2023] \[23] \[04], last updated ???)  
 [GoodRiddance](./GoodRiddance.md) (started \[2023] \[32] \[02], last updated \[2024] \[01] \[01])  
-[HeyLittleSongbird](./HeyLittleSongbird.md) (started \[2023] \[51] \[03], last updated \[2024] \[07] \[03])  
+[IfItsTrue](./IfItsTrue.md) (started \[2024\]\[26\]\[04\], last updated \[2024\]\[27\]\[01\])  
 [NancyMulligan](./NancyMulligan.md) (started \[2023] \[10] \[01], last updated \[2024] \[21] \[01])  
 [Sharks](./Sharks.md) (started \[2023] \[12] \[02], last updated ???)  
 [WhenI'mSixty-Four](./WhenI'mSixty-Four.md) (started \[2023] \[24] \[04], last updated ???)  
 [WildSage](./WildSage.md) (started \[2023] \[30] \[04], last updated ???)  
 # In Progress  
-[BuildGodThenWe'llTalk](./BuildGodThenWe'llTalk.md) (started \[2024] \[00] \[04], last updated \[2024] \[00] \[04])  
+[BuildGodThenWe'llTalk](./BuildGodThenWe'llTalk.md) (started \[2024] \[00] \[04], last updated \[2024] \[27]\[01])  
 [Charming](./Charming.md) (started \[2023] \[39] \[06], last updated ???)  
 [HowDareYou](./HowDareYou.md) (started \[2023] \[32] \[02], last updated ???)  
 [IDon'tCare](./IDon'tCare.md) (started \[2023] \[38] \[04], last updated \[2024] \[10] \[01])  
