@@ -36,8 +36,8 @@ https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX?si=f8f07fff78834361
 10. ;;  
 11. ;;  
 12. ;;  
-13. ;;  
-14. ;;  
+13. wheel in bolero banjo;;  
+14. -;;  
 ## Verse 3  
 ### 4/4 (West Coast Swing)  
 1. ;; (slow)  
@@ -67,10 +67,10 @@ https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX?si=f8f07fff78834361
 2. canter reverse twirl vine;;  
 3. reverse turns;;  
 4. -;;  
-5. ;;  
-6. ;;  
-7. ;;  
-8. ;;  
+5. explode apart;;  
+6. and together;;  
+7. reverse turns;;  
+8. -;;  
 9. ;;  
 10. ;;  
 11. ;;  
