@@ -11,7 +11,7 @@ https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX?si=f8f07fff78834361
 2. ,, waist drag;; (8 = STREET)  
 3. sugar push;,, 4 very quick chicken walks;  
 4. faceloop sugar push with rock 2;;  
-5. ;;  
+5. 4 cross points;;  
 6. whip turn;;  
 7. ;;  
 8. ;;  
@@ -26,10 +26,10 @@ https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX?si=f8f07fff78834361
 ### 3/4 (Viennese Waltz)  
 1. ;;  
 2. ;;  
-3. ;;  
-4. ;;  
-5. ;;  
-6. ;;  
+3. roll across; explode apart;  
+4. roll across; explode apart;  
+5. open in and out runs;;  
+6. open in and out runs;;  
 7. ;;  
 8. ;;  
 9. ;;  
@@ -82,10 +82,10 @@ https://open.spotify.com/track/4rstj4vgkFq49R2VV0fbxX?si=f8f07fff78834361
 ## Pre-Chorus  
 ### 4/4 (West Coast Swing)  
 1. ;;  
-2. ;;  
-3. ;;  
-4. ;;  
-5. ;;  
+2. whip turn;;  
+3. wrapped whip;;  
+4. whip turn;;  
+5. wrapped whip;;  
 ## Instrumental  
 ### 3/4 (Viennese Waltz)  
 1. ;;  
