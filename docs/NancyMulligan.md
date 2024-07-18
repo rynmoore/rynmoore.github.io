@@ -23,10 +23,9 @@ https://open.spotify.com/track/6WrSJgAN7mhcoJPhKJmc3x?si=e9d6d82aadc64bb0
 2. second half of a broken box;; half a left turning box;;  
 ## Verse 2  
 1. slow open vine 4;; two turning two steps;;  
-2. slow double twirl;; two merengues;;  
+2. slow double twirl;; slow side close twice;;  
 3. slow open vine 4;; two turning two steps;;  
-4. slow double twirl  
-5. ;; two merengues;;  
+4. slow double twirl;; slow side close twice;;  
 ## Chorus   
 1. vine 3 and touch; wrap; unwrap; change sides;   
 2. Hitch apart; scissors to semi; hitch six;;  
@@ -34,9 +33,9 @@ https://open.spotify.com/track/6WrSJgAN7mhcoJPhKJmc3x?si=e9d6d82aadc64bb0
 4. Scissors to sidecar; walk 2 to face center; one turning two step; walk 2;  
 ## Verse 3  
 1. slow open vine 4;; two turning two steps;;  
-2. slow double twirl;; two merengues;;  
+2. slow double twirl;; slow side close twice;;  
 3. slow open vine 4;; two turning two steps;;  
-4. slow double twirl;; two merengues;;  
+4. slow double twirl;; slow side close twice;;  
 ## Chorus  
 1. vine 3 and touch; wrap; unwrap; change sides;  
 2. Hitch apart; scissors to semi; hitch six;;  
