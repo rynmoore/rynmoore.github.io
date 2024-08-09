@@ -69,4 +69,6 @@ Solo turn in 6;;
 Canter x2;  
   
 # Notes  
-- Twist vine 6 with double twirl probably doesn't need to say twist vine, it could just be a vine? 
+- Twist vine 6 with double twirl probably doesn't need to say twist vine, it could just be a vine?   
+  
+#notes  
