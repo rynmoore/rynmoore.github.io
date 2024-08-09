@@ -6,22 +6,22 @@ https://open.spotify.com/track/6HgweHXudIZz9FBOt4HUhB?si=448ad7aa8b7f4840
 # Choreo v1.0  
 ## Intro  
 1. wait 2 measures;;  
-2. apart point; pickup to touch;  
+2. apart point; pickup and touch;  
 ## Verse 1  
 1. three step; feather;  
 2. three step; open natural;  
-3. sqq;sqq;  
-4. spin turn; box finish;  
-5. qqqq;qqqq;  
-6. qqqq;qqqq;  
-7. qqqq;qqqq;  
-8. ss; change of direction;  
+3. twist vine 4; hover;  
+4. promenade weave;;  
+5. diamond turn 1/4; quick diamond 4;  
+6. slow dip; slow recover and close;  
+7. natural weave;;  
+8. hesitation change; change of direction;  
 ## Chorus  
 1. three step; feather;  
 2. reverse wave;;  
 3. telemark; slip pivot to banjo;  
 4. sqq; sqq;  
-5. 2 outside swivels;;  
+5. 2 outside swivels; slow side lock;  
 ## Verse 2  
 1. ;;  
 2. ;;  
@@ -61,4 +61,6 @@ THIS IS OBVIOUSLY BAD ^
 5. ;;  
 6. ;;  
 7. ;;  
-8. ;;
+8. ;;  
+  
+#finish 
