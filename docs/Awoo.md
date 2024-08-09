@@ -3,7 +3,7 @@ share: "True"
 ---  
   
 https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC?si=f5a7c5091d464632  
-# Choreo v6.0  
+# Choreo v7.0  
 ## __Intro__  
 1. wait;;  
 2. sliding doors;;  
@@ -15,7 +15,7 @@ https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC?si=f5a7c5091d464632
 3. Full basic;;  
 4. Sand steps;;  
 ## __Chorus__  
-1. Unwind and step side; cucaracha;  
+1. Unwind; cucaracha to reverse;  
 2. New Yorkers;;  
 3. Spot turn; aida  
 4. with back triple chas;; switch cross;  
@@ -26,12 +26,12 @@ https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC?si=f5a7c5091d464632
 ## __Interlude__  
 1. chase with underarm pass;;  
 2. alemana;;  
-3. Reverse underarm turn; fence line in 4;  
-4. Reverse twirl vine; cucaracha;  
-5. Underarm turn; fence line in 4;  
-6. Twirl vine; cucaracha  
-7. Half basic to whip;;  
-8. Fence line; new yorker;  
+3. Reverse underarm turn; fence line;  
+4. Time steps;;  
+5. chase with underarm pass;;  
+6. alemana;;  
+7. reverse underarm turn; fence line;  
+8. time steps;;  
 ## __Chorus__  
 1. cucaracha; open break;  
 2. chase with full turns;;  
@@ -41,14 +41,14 @@ https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC?si=f5a7c5091d464632
 1. Back to Rumba, serpiente;;  
 2. Fence line; fence line and hold;  
 ## __Bridge__  
-1. Unwind and step side to whip  
+1. Unwind to handshake; trade places;  
 2. chase with triple chas;;  
 3. ; follow turns;  
 4. ;;  
 5. half basic to whip;;  
 6. break back and cha; quick vine 8;  
 ## __Chorus__  
-1. Unwind and step side; cucaracha;  
+1. Unwind; cucaracha to reverse;  
 2. New Yorkers;;  
 3. Spot turn; aida  
 4. with back triple chas;; switch cross;  
@@ -63,7 +63,4 @@ https://open.spotify.com/track/6ScDqdxJQzPOLztBP8TEuC?si=f5a7c5091d464632
 4. Walk 2 and cha; walk 2 and cha;  
 5. Apart point;  
   
-# Notes  
-- Get on the wrong foot when you unwind and step side  
-- Fence line in 4 part is still a mess  
-- Unwind and step side into a whip is bad
+#record 
