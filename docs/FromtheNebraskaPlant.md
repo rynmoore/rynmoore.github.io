@@ -10,7 +10,7 @@ https://open.spotify.com/track/5PGHTHTc7ZbedOwjY2vWG2?si=1273ce4f555e4c67
 3. -; whip inside turn;  
 4. -; waist slide;  
 5. -, sugar push;;  
-6. tuck and spin;-, left side pass;  
+6. underarm turn;-, left side pass;  
 7. ; cheek to cheek;  
 8. -, sugar push;;  
 ## Chorus  
@@ -38,8 +38,8 @@ https://open.spotify.com/track/5PGHTHTc7ZbedOwjY2vWG2?si=1273ce4f555e4c67
 3. -, lead's underarm turn;; (to handshake?)  
 4. faceloop with extra rock;;  
 5. sugar push;-, left side pass;  
-6. -, underarm turn;;  
-7. whip turn;;  
+6. -, whip inside turn;;  
+7. -, underarm turn;;  
 8. rocked whip with three extra rocks;;  
 9. -; straight whip;  
 10. -; kick ball change twice;  
@@ -54,6 +54,6 @@ https://open.spotify.com/track/5PGHTHTc7ZbedOwjY2vWG2?si=1273ce4f555e4c67
 3. ; apart point?;  
   
 # Notes  
-- tuck and spin to left side pass is bad (probably want it to be an underarm turn)  
-- whip turn to rocked whip is bad  
-- make sure kick ball changes fit the music
+- make sure kick ball changes fit the music  
+  
+#record   

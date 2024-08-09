@@ -24,9 +24,9 @@ https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=9d22bcae64d54a35
 3. "  
 4. open break;  
 5. change sides underarm;  
-6. check side chasse;  
+6. check side and chasse;  
 7. weave 6;;  
-8. corte and recover;;  
+8. corte and recover and close;;  
 ## Chorus  
 1. waltz apart; spin maneuver;  
 2. two quarter right turns;;  
@@ -35,12 +35,12 @@ https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=9d22bcae64d54a35
 5. twirl vine; thru side close;  
 6. left turning box;;  
 7. "";;  
-8. roll 6;;  
+8. solo turn in 6;;  
 9. cantor twice;;  
 10. balances left and right;;  
 ## Verse 2  
 1. lunge basic;  
-2. underarm turn to wrap  
+2. reverse underarm turn to wrap  
 3. sweetheart runs  
 4. "  
 5. underarm turn to unwrap;  
@@ -53,7 +53,7 @@ https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=9d22bcae64d54a35
 3. "  
 4. open break;  
 5. change sides underarm;  
-6. check side chasse;  
+6. check side and chasse;  
 7. weave 6;;  
 8. corte and recover;;  
 ## Chorus  
@@ -64,7 +64,7 @@ https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=9d22bcae64d54a35
 5. twirl vine; thru side close;  
 6. left turning box;;  
 7. "";;  
-8. roll 6;;  
+8. solo turn in 6;;  
 9. cantor twice;;  
 10. balances left and right;;  
 ## Instrumental  
@@ -82,9 +82,9 @@ https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=9d22bcae64d54a35
 3. "  
 4. open break;  
 5. change sides underarm;  
-6. check side chasse;  
+6. check side and chasse;  
 7. weave 6;;  
-8. corte and recover;;  
+8. corte and recover and close;;  
 ## Chorus  
 1. waltz apart; spin maneuver;  
 2. two quarter right turns;;  
@@ -93,11 +93,13 @@ https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls?si=9d22bcae64d54a35
 5. twirl vine; thru side close;  
 6. left turning box;;  
 7. "";;  
-8. roll 6;;  
+8. solo turn in 6;;  
 9. cantor twice;;  
 10. balances left; side draw close;  
 ## Outro  
 1. weave 6;;  
-2. sway right and leftt;;  
+2. forward and point to semi; back and point;  
 3. weave 6;;  
-4. sway right and leftt and drape
+4. forward and point; back and point and hold;  
+  
+#record 

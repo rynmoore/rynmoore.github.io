@@ -37,3 +37,5 @@ https://open.spotify.com/track/25lTenJPmSfwCRZi2hjCcB?si=e384df1cd81b4d40
 4. cucaracha; underarm turn to tamara;  
 5. wheel 3 and unwind;;  
 6. flirt (lead in 2); fence line; shadow fence and hold;   
+  
+#record 

@@ -100,4 +100,6 @@ CENTER
 6. New Yorker to bolero banjo;  
 7. bolero wheel 3 to face wall;  
 WALL  
-8. hinge and hold;
+8. hinge and hold;  
+  
+#proofread   

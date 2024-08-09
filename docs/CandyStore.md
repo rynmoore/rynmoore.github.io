@@ -54,3 +54,5 @@ fallaway rock with continuous chasses back and freeze;;;;
 kick step twice; two forward triples;  
 2 point steps; swivel 4;  
 kick step twice; two forward triples; quick apart point  
+  
+#notmine

@@ -66,4 +66,6 @@ https://open.spotify.com/track/1tZRPqGvVWTnFiKXcl5YOF?si=57c0e7731e74453b
 6. apart and pickup;  
 ## Outro  
 1. right turning lock; dip and recover;  
-2. two quick hip rocks and apart point
+2. two quick hip rocks and apart point  
+  
+#proofread

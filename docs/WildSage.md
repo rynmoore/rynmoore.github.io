@@ -63,4 +63,6 @@ https://open.spotify.com/track/3LmjnKkFfVvO4OMs4vJe01?si=023ae9a790bd468c
 1. cucaracha crosses;;  
 2. forward basic; back basic;  
 3. circle away and together;;  
-4. corte and hold;
+4. corte and hold;  
+  
+#proofread 

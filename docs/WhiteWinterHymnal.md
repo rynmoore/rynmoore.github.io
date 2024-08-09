@@ -33,4 +33,6 @@ double cubans;;;;
 apart point; together touch; slow side draw touch twice;;  
 rumba basic;; spot turns;;  
 open hip twist; to fan; hockey stick;;  
-fwd and develope
+fwd and develope  
+  
+#notmine 

@@ -49,4 +49,6 @@ roll 3 apart, lead transition;; face partner, strut together 3 to closed;;
 sway left; follow only sway right; right foot roll 3 apart; - fence and ronde; towards partner,  
 fwd; fwd lock fwd; thru circle vine 4;;  
 check thru to handshake; follow unwind to varsouvienne, both recover side close;  
-shadow right lunge and lower
+shadow right lunge and lower  
+  
+#notmine 

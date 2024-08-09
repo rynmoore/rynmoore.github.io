@@ -75,4 +75,9 @@ for triple wheel
 ## Outro  
 jive walk   
 swivel walks 4  
-two forward triples and point
+two forward triples and point  
+  
+# Notes  
+- discovered problems on Queereographer's night. Not sure what they were.   
+  
+#notes 
