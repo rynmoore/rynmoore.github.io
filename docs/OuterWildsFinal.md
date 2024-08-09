@@ -21,7 +21,7 @@ Sequence: Intro, A, B, C, D, E
   
 ## Part B  
 **1-4     Half Basic; Three Aidas (to line, then reverse, then line);;;**  
-**5-8     Switch Rock; Cucaracha; Alternative Basics;;**  
+**5-8     Switch Rock; Cucaracha; Two Alternative Basics;;**  
 ## Part C  
 **1-4     Quick Twist Vine 8 (to line); Cucaracha; Quick Twist Vine 8 (to reverse); Cucaracha;**  
 **5-8     Half Basic; Whip; Chase with Underarm Pass**  
@@ -31,4 +31,4 @@ Sequence: Intro, A, B, C, D, E
 ## Part E  
 **1-4     Flirt to a fan;; Hockey Stick (to handshake);;**  
 **5-8     Trade Places Twice (to butterfly);; Cucaracha; Underarm Turn (to tamara)**  
-**9-13     Wheel 3; Unwind (to handshake); Flirt (lead in 2); Shadow Fence Line; Shadow Fence and Hold**  
+**9-13     Wheel 3; Unwind (to handshake); Start a Flirt (lead in 2); Shadow Fence Line; Shadow Fence and Hold**  
