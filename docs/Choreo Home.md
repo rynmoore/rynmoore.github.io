@@ -26,6 +26,7 @@ This is a playlist of songs that I haven't been able to categorize into specific
 # Complete  
 [AeFondKiss](./AeFondKiss.md) (started 2022-09-28, last updated ???)  
 [Awoo](./Awoo.md) (started 2022-07-30, last updated ???)  
+[Dive](./Dive.md) (started \[2023] \[23] \[04], last updated \[2024] \[29] \[06])  
 [Ex'sandOh's](./Ex'sandOh's.md) (started 2022-08-08, last updated \[2024] \[21] \[01])  
 [FromtheNebraskaPlant](./FromtheNebraskaPlant.md) (started \[2023] \[45] \[01], last updated \[2023] \[51] \[03])  
 [GoodIntentions](./GoodIntentions.md) (started \[2023] \[23] \[04], last updated ???)  
@@ -38,7 +39,7 @@ This is a playlist of songs that I haven't been able to categorize into specific
 # In Progress  
 [BuildGodThenWe'llTalk](./BuildGodThenWe'llTalk.md) (started \[2024] \[00] \[04], last updated \[2024] \[27]\[01])  
 [Charming](./Charming.md) (started \[2023] \[39] \[06], last updated ???)  
-[HowDareYou](./HowDareYou.md) (started \[2023] \[32] \[02], last updated ???)  
-[IDon'tCare](./IDon'tCare.md) (started \[2023] \[38] \[04], last updated \[2024] \[10] \[01])  
+[HowDareYou](./HowDareYou.md) (started \[2023] \[32] \[02], last updated \[2024] \[29] \[06])  
+[IDon'tCare](./IDon'tCare.md) (started \[2023] \[38] \[04], last updated \[2024] \[29] \[06])  
   
   
