@@ -26,7 +26,7 @@ https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip?si=49ed0817300b40c6
 6. -; skate left and right;  
 7. face to face; back to back;  
 8. hitch 6;;  
-9. pickup and close;  
+9. walk and pickup;  
 ## Verse 2  
 1. scissors to sidecar; walk out two;  
 2. scissors to banjo; walk in two;  
@@ -57,4 +57,13 @@ https://open.spotify.com/track/1NrbnHlR2BFREcyWXHIHip?si=49ed0817300b40c6
 8. forward lock forward; walk and face;  
 ## Outro  
 1. two turning two steps;;  
-2. twirl two; (slow?) apart point;
+2. twirl two; apart point;  
+  
+# Notes  
+- Step hops are good  
+- Wrong foot to forward lock forward the second time  
+- Hitch 6 to close in verse 3  
+	- Hitch scissors?   
+	- Thru scissors?   
+  
+#notes   
