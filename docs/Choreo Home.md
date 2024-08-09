@@ -31,6 +31,7 @@ This is a playlist of songs that I haven't been able to categorize into specific
 [FromtheNebraskaPlant](./FromtheNebraskaPlant.md) (started \[2023] \[45] \[01], last updated \[2023] \[51] \[03])  
 [GoodIntentions](./GoodIntentions.md) (started \[2023] \[23] \[04], last updated ???)  
 [GoodRiddance](./GoodRiddance.md) (started \[2023] \[32] \[02], last updated \[2024] \[01] \[01])  
+[HowDareYou](./HowDareYou.md) (started \[2023] \[32] \[02], last updated \[2024] \[31] \[06])  
 [IfItsTrue](./IfItsTrue.md) (started \[2024\]\[26\]\[04\], last updated \[2024\]\[27\]\[01\])  
 [NancyMulligan](./NancyMulligan.md) (started \[2023] \[10] \[01], last updated \[2024] \[21] \[01])  
 [Sharks](./Sharks.md) (started \[2023] \[12] \[02], last updated ???)  
@@ -39,7 +40,6 @@ This is a playlist of songs that I haven't been able to categorize into specific
 # In Progress  
 [BuildGodThenWe'llTalk](./BuildGodThenWe'llTalk.md) (started \[2024] \[00] \[04], last updated \[2024] \[27]\[01])  
 [Charming](./Charming.md) (started \[2023] \[39] \[06], last updated ???)  
-[HowDareYou](./HowDareYou.md) (started \[2023] \[32] \[02], last updated \[2024] \[31] \[06])  
 [IDon'tCare](./IDon'tCare.md) (started \[2023] \[38] \[04], last updated \[2024] \[29] \[06])  
   
   
