@@ -65,4 +65,6 @@ https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4?si=a016ed425e4b42ad
 2. switch cross with triple chas to open;;  
 3. sliding doors to half open;;  
 4. forward basic and back basic;;  
-5. quick cuddle pivot and hold???
+5. quick cuddle pivot and hold???  
+  
+#proofread 
