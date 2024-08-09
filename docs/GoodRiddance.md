@@ -3,7 +3,7 @@ share: "True"
 ---  
   
 https://open.spotify.com/track/5gQTdwbLvhRHtMcyWxl3y2?si=16b2909e51fd41f5  
-# Choreo v1.0  
+# Choreo v2.0  
 ## Part 1  
 1. wait; lunge break;  
 2. dip and recover;  
@@ -25,9 +25,9 @@ https://open.spotify.com/track/5gQTdwbLvhRHtMcyWxl3y2?si=16b2909e51fd41f5
 8. circle away; circle together (follow in 4);  
 9. promenade sway; change to oversway and recover <- THIS IS THE WRONG WORD?;  
 ## Part 3  
-1. turn left and chasse to banjo; hesitation change;  
-2. telemark; promenade weave;  
-3. -; hover and thru all quicks;  
+1. basic to a fan (follow in 4); fence line;  
+2. shadow syncopated turning basic twice;;  
+3. fence line; cuddle pivot;  
 4. riff turns; sway left and right;  
 5. promenade sway; recover,, (the music has an extra 2 beats here)  
 ## Part 4  
@@ -40,8 +40,5 @@ https://open.spotify.com/track/5gQTdwbLvhRHtMcyWxl3y2?si=16b2909e51fd41f5
 7. front circle vine 4; cross and ronde; (this part should match the thingy that happens in Carnival)  
 8. circle away; circle together (follow in 4);  
 9. promenade sway; change to oversway;  
-# Questions for When I Dance This With Someone Else  
-- Can you do riff turns out of a pivot 4 comfortably?   
-- Can you pivot 4 out of a promenade weave comfortably?  
-# Notes  
-- The rondes are too slow, really
+  
+#record   
