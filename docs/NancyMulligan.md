@@ -45,3 +45,8 @@ https://open.spotify.com/track/6WrSJgAN7mhcoJPhKJmc3x?si=e9d6d82aadc64bb0
 ## Outro  
 1.  half a broken box;; half a left turning box;;  
 2. second half of a broken box;; half a left turning box and corte;;  
+  
+# Notes  
+- discovered problems on Queereographer's night. Not sure what they were.   
+  
+#notes 
