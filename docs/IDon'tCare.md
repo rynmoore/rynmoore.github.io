@@ -73,5 +73,6 @@ https://open.spotify.com/track/7ewT0nLFkMD8ONbRibePr9?si=60221d419bc84d7e
   
 # Notes  
 - I might be getting miami special and neck slide mixed up  
+- fallaway throwaway into point steps???  
   
 #finish 
